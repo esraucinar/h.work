@@ -1,0 +1,1 @@
+#Kullanıcıdan girilen sayının asal çarpanlarını bulan bir program yazınız. 
